@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Sitemap: https://bmaexpress.com/sitemap.xml
+Sitemap: https://bmaexpress.com/sitemap0.xml
+Sitemap: https://bmaexpress.com/sitemap1.xml
+Sitemap: https://bmaexpress.com/sitemap2.xml
+Sitemap: https://bmaexpress.com/sitemap3.xml
+Sitemap: https://bmaexpress.com/sitemap4.xml
+Sitemap: https://bmaexpress.com/sitemap5.xml
+Sitemap: https://bmaexpress.com/sitemap6.xml
+Sitemap: https://bmaexpress.com/sitemap7.xml
